@@ -42,7 +42,7 @@ This project evaluates code implementations from [OpenAI](https://openai.com) [C
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Rainy-Day-SMS-Alert.git
+   git clone https://github.com/Vikranth3140/Rainy-Day-SMS-Alert.git
    cd Rainy-Day-SMS-Alert
    ```
 2. Install dependencies:
